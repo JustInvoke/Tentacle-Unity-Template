@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.eldritchone.tentacle": "file:../Tentacle/Tentacle_1.1.0-alpha.5_Unity_6.0_Win64.tgz",
     "com.unity.ai.navigation": "2.0.15",
     "com.unity.collab-proxy": "2.12.4",
     "com.unity.ide.rider": "3.0.40",
