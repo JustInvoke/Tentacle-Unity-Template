@@ -1319,19 +1319,13 @@ MonoBehaviour:
   onViewerAdded:
     m_PersistentCalls:
       m_Calls: []
-  onEventAnywhere:
+  onStreamEvent:
     m_PersistentCalls:
       m_Calls: []
-  onEventTwitch:
+  onChatJoin:
     m_PersistentCalls:
       m_Calls: []
-  onEventKick:
-    m_PersistentCalls:
-      m_Calls: []
-  onChatJoinAnywhere:
-    m_PersistentCalls:
-      m_Calls: []
-  onChatMessageAnywhere:
+  onChatMessage:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1641466770}
@@ -1346,43 +1340,43 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  onChatCommandAnywhere:
+  onChatCommand:
     m_PersistentCalls:
       m_Calls: []
-  onChatMessageWithEmojisAnywhere:
+  onChatMessageWithEmojis:
     m_PersistentCalls:
       m_Calls: []
-  onChatMessageWithEmotesAnywhere:
+  onChatMessageWithEmotes:
     m_PersistentCalls:
       m_Calls: []
-  onBanAnywhere:
+  onBan:
     m_PersistentCalls:
       m_Calls: []
-  onChannelUpdateAnywhere:
+  onChannelUpdate:
     m_PersistentCalls:
       m_Calls: []
-  onDonationAnywhere:
+  onDonation:
     m_PersistentCalls:
       m_Calls: []
-  onFollowAnywhere:
+  onFollow:
     m_PersistentCalls:
       m_Calls: []
-  onRedemptionAnywhere:
+  onRedemption:
     m_PersistentCalls:
       m_Calls: []
-  onSubscriptionAnywhere:
+  onSubscription:
     m_PersistentCalls:
       m_Calls: []
-  onSubscriptionGiftAnywhere:
+  onSubscriptionGift:
     m_PersistentCalls:
       m_Calls: []
-  onSubscriptionRenewalAnywhere:
-    m_PersistentCalls:
-      m_Calls: []
-  onRaidEndedTwitch:
+  onSubscriptionRenewal:
     m_PersistentCalls:
       m_Calls: []
   onCustomEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  onTimerFired:
     m_PersistentCalls:
       m_Calls: []
 --- !u!4 &1548201326

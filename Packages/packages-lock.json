@@ -1,13 +1,15 @@
 {
   "dependencies": {
     "com.eldritchone.tentacle": {
-      "version": "file:../Tentacle/Tentacle_1.1.0-alpha.5_Unity_6.0_Win64.tgz",
+      "version": "file:../Tentacle/Tentacle_1.2.0-alpha.4_Unity_2020.3_Win64.tgz",
       "depth": 0,
       "source": "local-tarball",
-      "dependencies": {}
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      }
     },
     "com.unity.ai.navigation": {
-      "version": "2.0.15",
+      "version": "2.0.16",
       "depth": 0,
       "source": "registry",
       "dependencies": {
