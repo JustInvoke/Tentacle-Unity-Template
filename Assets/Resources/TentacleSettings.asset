@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dde04fbb4df24dc4cb099c334734d43b, type: 3}
   m_Name: TentacleSettings
   m_EditorClassIdentifier: Tentacle.Runtime::Tcl.TentacleSettings
+  EditorMode: 1
+  BuildMode: 1
   AutoConnect: 1
   SessionLabel: 
   DataDirectoryOverride: 
+  ConnectionPassword: 
+  EmbeddedDataDirectory: 
+  TwitchClientId: 
+  ConfigFolder: Tentacle
   ReconnectInitialDelaySeconds: 1
   ReconnectMaxDelaySeconds: 30
   RefreshRegistryOnConnect: 1
